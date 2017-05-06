@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BuscaV1</string>
+    <string name="nome_busca">nome do pais</string>
+    <string name="botao_busca">Buscar</string>
+    <string name="label_cliente_name">Name:</string>
+    <string name="label_cliente_capital">Capital:</string>
+    <string name="label_cliente_area">Area:</string>
+    <string name="label_cliente_population">Population:</string>
+
+</resources>
